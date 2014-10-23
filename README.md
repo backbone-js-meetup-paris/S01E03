@@ -10,6 +10,8 @@ Pierre Besson
 
 Qu'est ce que c'est ? Quelle utilisation dans Backbone ? Avantages, mise en place et retour d'expérience.
 
+Lien vers les slides : [Les Promises](https://speakerdeck.com/pierr/backbone-and-promise-a-plus)
+
 
 Retour d'expérience d'un projet à fort traffic
 ----------------------------------------------
